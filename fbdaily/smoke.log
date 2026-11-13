@@ -1,0 +1,5 @@
+qapp ok
+import gui ok
+splash ok
+app window ok; cards= ['reacts', 'comments', 'shares', 'replied', 'added', 'confirmed']
+GUI CONSTRUCTED OK

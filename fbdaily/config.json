@@ -1,0 +1,48 @@
+{
+  "package": "com.facebook.lite",
+  "session_minutes": [5, 12],
+  "switch_accounts": true,
+  "account_switch_minutes": 15,
+  "stagger_seconds": [0, 45],
+  "read_pause_seconds": [2, 9],
+  "watch_pause_seconds": [8, 22],
+  "weights": {
+    "scroll": 34,
+    "scroll_back": 6,
+    "long_watch": 8,
+    "open_post": 5,
+    "notifications": 5,
+    "reels": 6,
+    "engage": 28,
+    "add_friends": 5,
+    "confirm_requests": 3
+  },
+  "engage": {
+    "enabled": true,
+    "react_prob": 0.9,
+    "share_prob": 0.3,
+    "comment_prob": 0.3,
+    "comment_example": "",
+    "reaction_weights": {
+      "like": 40, "love": 25, "haha": 15, "wow": 8, "care": 6, "sad": 3, "angry": 3
+    },
+    "add_friends_range": [2, 5],
+    "confirm_range": [1, 5]
+  },
+  "chat": {
+    "enabled": true,
+    "persona": "a normal Filipino person",
+    "styles": ["friendly and warm", "nice and polite", "playful and fun", "sweet", "a little flirty", "chill and casual"],
+    "max_per_session": 5,
+    "check_interval_seconds": 60
+  },
+  "between_sessions_seconds": [30, 120],
+  "ai_key": "",
+
+  "warmup": {"enabled": true, "warmup_days": 14, "start_activity_pct": 15},
+  "rest_days_per_week": [1, 2],
+  "max_sessions_per_day": [3, 8],
+  "quiet_hours": [1, 7],
+  "flag_cooldown_hours": 48,
+  "random_mistakes": {"enabled": true, "scroll_back_prob": 0.05, "back_button_prob": 0.03, "mistap_prob": 0.02}
+}

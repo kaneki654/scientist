@@ -1,0 +1,9 @@
+engine: ok
+fb.py: ok C:\Users\ASUS TUF\Folder\scientist\fb.py
+ocr: True
+adb: C:\Users\ASUS TUF\platform-tools\adb.EXE
+uiautomator2: ok C:\Users\ASUS TUF\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\uiautomator2\__init__.py
+wallpaper helper: C:\Users\ASUS TUF\Folder\scientist\tools\helper\scientist-helper.jar  tether client: C:\Users\ASUS TUF\Folder\scientist\tools\tether\scientist-tether.apk
+scrcpy: None
+usb phones: ['76d1ce6a0502']
+phone 76d1ce6a0502: screen (1080, 2340), ocr lines 11, tabs not on screen

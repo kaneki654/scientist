@@ -1,0 +1,5 @@
+frozen=True
+fbdaily.ADB=C:\Users\ASUS TUF\platform-tools\adb.EXE exists=True
+reactor.ADB=C:\Users\ASUS TUF\platform-tools\adb.EXE exists=True
+devices=1
+SELFTEST OK

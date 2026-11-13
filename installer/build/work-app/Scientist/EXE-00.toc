@@ -87,7 +87,7 @@
  [],
  False,
  False,
- 1794604728,
+ 1794606405,
  [('runw.exe',
    'C:\\Users\\ASUS '
    'TUF\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
